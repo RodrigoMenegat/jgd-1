@@ -37,3 +37,29 @@ Em seguida, vamos falar da história do jornalismo de dados: pensamos nesse gên
 
 Para terminar, serão apresentados conceitos matemáticos simples que fazem toda a diferença na hora de trabalhar com números em uma matéria. A ideia é se familiarizar e ficar confortável com taxas, variações e comparações entre grandezas. Não é nada de outro mundo, mas necessário para avançar para partes mais técnicas da disciplina.
 
+#### Leituras recomendadas:
+
+- [Introduction - The Data Journalism Handbook](https://datajournalismhandbook.org/handbook/one/introduction/)
+
+- [Agência Lupa - Como mentir com estatísticas: um kit de sobrevivência para as eleições](https://piaui.folha.uol.com.br/lupa/2016/07/15/como-mentir-com-estatisticas-um-kit-de-sobrevivencia-para-as-eleicoes/)
+
+- [Math basics for journalists: Working with averages and percentages](https://journalistsresource.org/tip-sheets/foundations/math-for-journalists/)
+
+- [Adrian Holovaty - A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
+
+- [The Guardian - Analysing data is the future for journalists, says Tim Berners-Lee](https://www.theguardian.com/media/2010/nov/22/data-analysis-tim-berners-lee)
+
+#### Leituras aprofundadas:
+
+- [Alexander Howard - The Art and Science of Data Driven Journalism](https://academiccommons.columbia.edu/doi/10.7916/D8Q531V1)
+
+- [Sarah Cohen - Numbers in The Newsroom](http://cvlassets.s3.amazonaws.com/Numbers_in_the_Newsroom_Second_Edition.pdf)
+```
+É um bom livro para consultas. Mais do que ler inteiro numa sentada, vale ter esse PDF salvo para consultar sempre que puder.
+```
+
+#### Avaliação:
+
+- [Conjunto 1.1](#)
+
+Você vai resolver uma série de exercícios que usa dados de interesse público para trabalhar conceitos básicos de compreensão numérica. São perguntas sobre taxas, percentuais, variação ao longo do tempo, comparação de grandezas, correlação, causalidade e coisas do gênero.
