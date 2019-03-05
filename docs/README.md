@@ -134,14 +134,14 @@ Isso não é motivo para abandonar a pauta: a vida pode ficar um pouco mais comp
 
 - [Towards Data Science - Ethics in Web Scraping](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
 
+- [Escola de Dados - Raspagem e jornalismo de dados](https://escoladedados.org/tutoriais/raspagem-e-jornalismo-de-dados/)
+
+- [Escola de Dados - Ferramentas simples e gratuitas de raspagem](https://escoladedados.org/tutoriais/ferramentas-simples-e-gratuitas-de-raspagem/)
+
 - [Escola de Dados - Guia Quartz Para Limpeza de Dados](https://opengovdata.io/2014/legal-history/)
 
   O link acima é uma tradução e adaptação deste:
 - [The Quartz Guide to Bad Data](https://qz.com/572338/the-quartz-guide-to-bad-data/)
-
-- [Escola de Dados - Raspagem e jornalismo de dados](https://escoladedados.org/tutoriais/raspagem-e-jornalismo-de-dados/)
-
-- [Escola de Dados - Ferramentas simples e gratuitas de raspagem](https://escoladedados.org/tutoriais/ferramentas-simples-e-gratuitas-de-raspagem/)
 
 #### Avaliação
 
