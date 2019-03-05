@@ -52,6 +52,8 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 #### Leituras aprofundadas:
 
 - [Alexander Howard - The Art and Science of Data Driven Journalism](https://academiccommons.columbia.edu/doi/10.7916/D8Q531V1)
+  
+  São aproximadamente 100 páginas de reflexões sobre a prática do jornalismo guiado por dados. Quase tudo que cobrimos nas próximas aulas tem um capítulo na obra. A melhor parte, acho eu, é o capítulo três: "Why Data Journalism Matters".
 
 - [Sarah Cohen - Numbers in The Newsroom](http://cvlassets.s3.amazonaws.com/Numbers_in_the_Newsroom_Second_Edition.pdf)
 
