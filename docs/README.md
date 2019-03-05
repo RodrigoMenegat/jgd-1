@@ -94,7 +94,9 @@ Você vai resolver uma série de exercícios que usa dados de interesse público
 Aqui, começa o esquema de “dois caminhos” para cada uma das tarefas, do qual falei no [começo do documento]("https://rodrigomenegat.github.io/jgd-1/#avaliação"). Você pode escolher qualquer um dos conjuntos de exercícios. Será ótimo se você puder tentar fazer os dois, mesmo que parcialmente – ou, ao menos, dar uma olhada no segundo conjunto. Entretanto, sei que a vida é corrida e super entendo se conseguir fazer apenas um.
 
 - Conjunto de exercícios 2.1: confortável:
+
   Você vai precisar acessar dados em portais de dados abertos, baixá-los, limpá-los e analisá-los usando Excel ou Google Sheets. As perguntas vão ser tanto específicas (“quanto o PIB brasileiro cresceu entre 2009 e 2014, de acordo com o IBGE?”) ou abertas (“escreva um lead interessante com os dados que analisou”).
 
 - Conjunto de exercícios 2.2: desafiador
+
   Nesse conjunto, vamos fazer duas coisas: analisar bases de dados maiores, daquelas que o Excel não dá conta, e apresentar o conceito de APIs. Para isso, vamos começar a brincar com as linguagens Python e SQL. Não entre em pânico ainda: tentei ser o mais didático possível no material, apresentando os conceitos passo a passo, desde a instalação dos programas até a execução do código. **Meu objetivo não é transformar ninguém em programador** (temos aulas de menos para isso),**mas mostrar o caminho** para quem quiser ir atrás dessas competências por conta própria.
