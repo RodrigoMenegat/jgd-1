@@ -54,9 +54,9 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 - [Alexander Howard - The Art and Science of Data Driven Journalism](https://academiccommons.columbia.edu/doi/10.7916/D8Q531V1)
 
 - [Sarah Cohen - Numbers in The Newsroom](http://cvlassets.s3.amazonaws.com/Numbers_in_the_Newsroom_Second_Edition.pdf)
-```
-É um bom livro para consultas. Mais do que ler inteiro numa sentada, vale ter esse PDF salvo para consultar sempre que puder.
-```
+
+  É um bom livro para consultas. Mais do que ler inteiro numa sentada, vale ter esse PDF salvo para consultar sempre que puder.
+
 
 #### Avaliação:
 
