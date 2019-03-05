@@ -10,7 +10,7 @@ Além do foco na produção de conteúdo, também será abordado o uso de inform
 
 ## Índice
 
-- [Como funciona?](#como-funciona?)
+- [Como funciona?](#como-funciona)
   - [A aula](#a-aula)
   - [Sistema de avaliação](#sistema-de-avaliação)
   - [Logística](#logística)
