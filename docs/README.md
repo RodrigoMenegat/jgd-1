@@ -243,9 +243,11 @@ Na última aula desse primeiro módulo, vamos olhar para os principais exemplos 
 
 ### Material online
 
-##### Conteúdo online 1:
+A carga horária do curso exige também que eu oferça duas aulas completamente virtuais. Abaixo, você encontra a solução para os exercícios do curso, que certamente tomariam todo o tempo do mundo para fazer presencialmente.
+
+#### Conteúdo 1:
 - [Passo-a-passo dos exercícios “confortáveis”](#)
 
-##### Conteúdo online 2:
+#### Conteúdo 2:
 - [Passo-a-passo dos exercícios “desafiadores”](#)
 
