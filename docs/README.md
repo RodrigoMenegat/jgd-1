@@ -28,7 +28,7 @@ Além deste site, que contém uma descrição geral do curso e links para os exe
 
 ## Plano de aulas
 
-#### Encontro 1
+##### Encontro 1
 ### Introdução ao Jornalismo de Dados e fundamentos estatísticos para jornalistas
 
 De início, vou apresentar a dinâmica da disciplina, o sistema de avaliação e todas as formalidades que se costuma esperar de uma primeira aula. 
