@@ -18,11 +18,21 @@ Para tornar o dia mais suportável e produtivo, vou dividir as atividades em dua
 
 ### Sistema de avaliação:
 
-Gosto de coisas simples e diretas. Para cada semana de aulas, vocês vão receber uma série de exercícios. Cada um deles vale 100 pontos. Ao fim da disciplina, vou calcular a médias dessas notas. Essa vai ser a nota final.
+Gosto de coisas simples e diretas. Para cada semana de aulas, vocês vão receber uma série de exercícios. Cada um deles vale 100 pontos. Ao fim da disciplina, vou calcular a média dessas notas, que vai ser a pontuação final.
+
+Algumas das aulas vão ter duas opções de conjuntos de exercícios: a **"confortável"** e a **"desafiadora"**.
+
+Ambos vão trabalhar os mesmos conceitos jornalísticos, mas o primeiro pode ser feito com ferramentas mais simples, enquanto o segundo vai exigir algumas técnicas mais avançadas e apresentar conceitos de programação.
+
+Você pode escolher qual conjunto de exercícios vai responder, mas **seria muito bom se tentasse fazer os dois**. As questões desafiadoras sempre serão acompanhas de um passo-a-passo detalhado. O importante é ter contato com as técnicas e não necessariamente domina-las.
+
+Caso escolha fazer as duas atividades (faça isso, vai ser legal!), na hora de calcular a média vou considerar apenas aquela em que você for melhor. Além disso, você vai ganhar um **bônus de nota** para cada atividade desafiadora que completar.
 
 ### Logística:
 
 Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter]('#'). Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
+
+É importante que você assine e acompanhe. Certifique-se de que os e-mails não vão cair no filtro de spam.
 
 ---
 
@@ -66,3 +76,25 @@ Você vai resolver uma série de exercícios que usa dados de interesse público
 
 - [Conjunto 1.1](#)
 
+##### Encontro 2
+### Explorando bases de dados públicas: coleta, limpeza e análise
+
+É nessa aula que começamos a sujar as mãos de verdade. De início, vamos falar sobre os conceitos de *open data* e *open data journalism*. Depois, olharemos para marcos históricos na política de dados abertos brasileira, com ênfase na Lei de Acesso à Informação, comparando-a com outros países. Em seguida, vamos visitar as principais fontes públicas de dados que podem ser úteis para reportagens, escolher uma delas e explora-la juntos.
+
+#### Leituras recomendadas:
+
+- [The Guardian - Big data and open data: what's what and why does it matter?](https://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government)
+
+- [Joshua Tauberer - A Brief Legal History of Open Government Data](https://opengovdata.io/2014/legal-history/)
+
+- [Artigo 19 - Guia Prático da Lei de Acesso à Informação](https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Cartilha_LAI_2018_download.pdf)
+
+#### Avaliação:
+
+Aqui, começa o esquema de “dois caminhos” para cada uma das tarefas, do qual falei no [começo do documento]("https://rodrigomenegat.github.io/jgd-1/#avaliação"). Você pode escolher qualquer um dos conjuntos de exercícios. Será ótimo se você puder tentar fazer os dois, mesmo que parcialmente – ou, ao menos, dar uma olhada no segundo conjunto. Entretanto, sei que a vida é corrida e super entendo se conseguir fazer apenas um.
+
+- Conjunto de exercícios 2.1: confortável:
+  Você vai precisar acessar dados em portais de dados abertos, baixá-los, limpá-los e analisá-los usando Excel ou Google Sheets. As perguntas vão ser tanto específicas (“quanto o PIB brasileiro cresceu entre 2009 e 2014, de acordo com o IBGE?”) ou abertas (“escreva um lead interessante com os dados que analisou”).
+
+- Conjunto de exercícios 2.2: desafiador
+  Nesse conjunto, vamos fazer duas coisas: analisar bases de dados maiores, daquelas que o Excel não dá conta, e apresentar o conceito de APIs. Para isso, vamos começar a brincar com as linguagens Python e SQL. Não entre em pânico ainda: tentei ser o mais didático possível no material, apresentando os conceitos passo a passo, desde a instalação dos programas até a execução do código. **Meu objetivo não é transformar ninguém em programador** (temos aulas de menos para isso),**mas mostrar o caminho** para quem quiser ir atrás dessas competências por conta própria.
