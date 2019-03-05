@@ -15,12 +15,12 @@ Além do foco na produção de conteúdo, também será abordado o uso de inform
   - [Sistema de avaliação](#sistema-de-avaliação)
   - [Logística](#logística)
 - [Plano de aulas](#plano-de-aulas)
-  - [Encontro 1]
-  - [Encontro 2]
-  - [Encontro 3]
-  - [Encontro 4]
-  - [Encontro 5]
-  - [Encontro 6]
+  - [Encontro 1](#encontro-1)
+  - [Encontro 2](#encontro-2)
+  - [Encontro 3](#encontro-3)
+  - [Encontro 4](#encontro-4)
+  - [Encontro 5](#encontro-5)
+  - [Encontro 6](#encontro-6)
 - [Material online](#material-online)
   - [Passo-a-passo dos exercícios “confortáveis”](#conteúdo-online-1)
   - [Passo-a-passo dos exercícios "desafiadores”](#conteúdo-online-2)
