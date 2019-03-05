@@ -6,7 +6,9 @@ Durante as aulas, serão expostas estratégias para contar boas histórias a par
 
 Além do foco na produção de conteúdo, também será abordado o uso de informações quantitativas para tomar decisões gerenciais ou editoriais de acordo com o comportamento e as métricas da audiência.
 
-## Como funciona:
+---
+
+## Como funciona?
 
 ### A aula:
 
@@ -20,11 +22,13 @@ Gosto de coisas simples e diretas. Para cada semana de aulas, vocês vão recebe
 
 ### Logística:
 
-Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter]('#').Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
+Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter]('#'). Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
 
-## Plano de aulas:
+---
 
-#### Encontro 1:
+## Plano de aulas
+
+#### Encontro 1
 ### Introdução ao Jornalismo de Dados e fundamentos estatísticos para jornalistas
 
 De início, vou apresentar a dinâmica da disciplina, o sistema de avaliação e todas as formalidades que se costuma esperar de uma primeira aula. 
