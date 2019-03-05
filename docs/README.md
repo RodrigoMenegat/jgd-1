@@ -62,6 +62,7 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 #### Avaliação:
 
+Você vai resolver uma série de exercícios que usa dados de interesse público para trabalhar conceitos básicos de compreensão numérica. São perguntas sobre taxas, percentuais, variação ao longo do tempo, comparação de grandezas, correlação, causalidade e coisas do gênero.
+
 - [Conjunto 1.1](#)
 
-Você vai resolver uma série de exercícios que usa dados de interesse público para trabalhar conceitos básicos de compreensão numérica. São perguntas sobre taxas, percentuais, variação ao longo do tempo, comparação de grandezas, correlação, causalidade e coisas do gênero.
