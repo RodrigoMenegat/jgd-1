@@ -226,18 +226,44 @@ Na última aula desse primeiro módulo, vamos olhar para os principais exemplos 
 
 #### Leituras recomendadas
 
-- TO DO: Exemplos no mundo
+- [Data Journalism Awards - This is what the best of data journalism looks like](https://medium.com/data-journalism-awards/this-is-what-the-best-of-data-journalism-looks-like-6f1713d60479)
 
-- TO DO: Exemplos no Brasil
+  Uma das organizadoras da maior premiação de jornalismo de dados do mundo comenta os trabalhos que achou mais interessantes. Além de ler o texto, vale a pena visitar os links e ver o que as melhores redações do muito têm feito.
+
+- [Columbia Journalism Review - Boosting local news with data journalism and automation](https://www.cjr.org/tow_center/diakopoulos-automation-local.php)
+
+  Matéria sobre uma empresa chamada RADAR, do Reino Unido, que vende matérias geradas por inteligência artificial e dados para veículos locais. É interessante para pensar sobre automatização de processos jornalísticos e o impacto (positivo e negativo) que isso pode ter no mercado de mídia.
+
+- [Columbia Journalism Review - Investigating the algorithms that govern our lives](https://www.cjr.org/innovations/investigating_algorithms.php)
+
+  O texto apresenta o conceito e a importância do "algorithmic reporting" – ou seja, o que significa e como fazer para cobrir códigos proprietários, como aquele que gera linha do tempo do Facebook ou o que calcula o preço de uma corrida de Uber. De novo, vale navegar pelos links citados para ver como repórteres têm tentado decifrar essas caixas pretas que têm tanto impacto em nossas vidas.
+
+- [Natália Mazotte - As novas fronteiras do jornalismo de dados no Brasil](https://jornalismonobrasilem2017.com/as-novas-fronteiras-do-jornalismo-de-dados-no-brasil-cddeede4fb8d)
+
+  Texto breve, publicado no final de 2016, que elenca boas práticas e desafios para o jornalismo de dados no Brasil. Avançamos bastante desde lá, mas os problemas seguem, no geral, os mesmos.
+
+- [Nieman Lab - How the Argentinian daily La Nación became a data journalism powerhouse](http://www.niemanlab.org/2017/04/how-the-argentinian-daily-la-nacion-became-a-data-journalism-powerhouse-in-latin-america/)
+
+  Reportagem sobre o time de dados do jornal argentino La Nación, que é tem uma das melhores (a melhor, provavelmente) equipes de jornalismo de dados da América Latina. Como eles se organizaram institucionalmente, que tipo de competências procuram nos membros do time, como estimulam a curiosidade por esse tipo de trabalho nos outros repórteres?
+
+- [Folha de S.Paulo - Estudo indica alta chance de fraude em mil provas do Enem](https://www1.folha.uol.com.br/educacao/2018/04/estudo-inedito-indica-alta-chance-de-fraude-em-mil-provas-do-enem.shtml)
+  
+  Exemplo brasileiro de investigação usando dados. O repórter, programador e biólogo (!) Daniel Mariani usou técnicas estatísticas para denunciar uma possível fraude no ENEM. Ele detectou provas com padrões de resposta improvavelmente similares, o que dá indícios da existência de um esquema de cola sistemática.
+
+- [Estadão - Como votou sua vizinhança? Explore o mapa mais detalhado das eleições](https://www.estadao.com.br/infograficos/politica,como-votou-sua-vizinhanca-explore-o-mapa-mais-detalhado-das-eleicoes,935858)
+
+  Auto-promoção desavergonhada, mas vamos lá: nessa matéria, minha equipe no Estadão cruzou dados de diferentes fontes e usou um algoritmo da geometria para estimar como votou cada vizinhança do Brasil e quais são suas características demográficas.
 
 
 #### Leituras aprofundadas
 
-- TO DO
+- [Nikki Usher - Interactive Journalism: hackers, data and code](https://www.amazon.com/Interactive-Journalism-Hackers-Data-Code/dp/0252081986)
+
+  Outro livro que é difícil de achar, mas que vale a pena ter. Nikki Usher é uma pesquisadora da Universidade de Illinois que tem feito um tipo de estudo de que eu gosto muito: observação participante em redações, flertando com técnicas da etnografia. Dessa vez, ela visitou jornais de vários países para descobrir como as equipes de "jornalismo interativo" trabalham. Ela constrói conceitos interessantes e oferece uma visão bastante ampla das rotinas produtivas, competências mobilizadas e pressões a que essa vanguarda do jornalismo digital está sujeita.
 
 #### Avaliação
 
-- TO DO
+Sem exercícios de novo, mas com uma tarefa simples: selecionar dois ou três links de trabalhos de dados que você achou legais e explique o que eles têm de especial. Coisa curta, não mais de um parágrafo para cada.
 
 ---
 
