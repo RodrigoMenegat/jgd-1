@@ -31,7 +31,7 @@ Além do foco na produção de conteúdo, também será abordado o uso de inform
 
 ### A aula
 
-Temos encontros semanais todas as manhãs entre os dias xx e xx. Isso significa que tenho quatro horas para dar aula. Muitas vezes, isso vai ser **tempo demais**. 
+Temos encontros semanais todas as manhãs entre os dias **16 de março** e **27 de abril**. Isso significa que tenho quatro horas para dar aula. Muitas vezes, isso vai ser **tempo demais**. 
 
 Para tornar o dia mais suportável e produtivo, vou dividir as atividades em duas metades. Na primeira parte, eu falo um monte, apresento o conteúdo e discutimos. Na segunda, começamos a fazer exercícios da semana de forma colaborativa. Sugiro que aproveitem para dar uma boa olhada nas questões e tirar dúvidas presencialmente.
 
