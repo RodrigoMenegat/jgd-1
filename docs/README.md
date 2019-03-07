@@ -138,7 +138,7 @@ Isso não é motivo para abandonar a pauta: a vida pode ficar um pouco mais comp
 
 - [Escola de Dados - Ferramentas simples e gratuitas de raspagem](https://escoladedados.org/tutoriais/ferramentas-simples-e-gratuitas-de-raspagem/)
 
-- [Escola de Dados - Guia Quartz Para Limpeza de Dados](https://opengovdata.io/2014/legal-history/)
+- [Escola de Dados - Guia Quartz Para Limpeza de Dados](https://escoladedados.org/tutoriais/guia-quartz-para-limpeza-de-dados/#dados-estao-num-pdf)
 
   O link acima é uma tradução e adaptação deste:
 - [The Quartz Guide to Bad Data](https://qz.com/572338/the-quartz-guide-to-bad-data/)
@@ -195,8 +195,8 @@ Sim, os dois livros abaixos são pagos e não são fáceis de encontrar de graç
 
 Os links abaixo vão mostrar ferramentas úteis para elaborar boas visualizações de dados e, por tabela, para fazer o exercício da semana.
 
-- [Ferramentas gratuitas e fáceis para criar gráficos]()
-- [Gráficos com c3.js: uma breve (breve mesmo) introdução]()
+- [Ferramentas gratuitas e fáceis para criar gráficos](#)
+- [Gráficos com c3.js: uma breve (breve mesmo) introdução](#)
 
 ---
 
