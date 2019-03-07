@@ -70,13 +70,20 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 - [Introduction - The Data Journalism Handbook](https://datajournalismhandbook.org/handbook/one/introduction/)
 
+  Capítulo introdutório de um dos primeiros manuais de jornalismo de dados do mundo. Repórteres de grandes veículos trazem definições e explicações didáticos sobre esse tipo de trabalho, que na época ainda era uma grande novidade. 
+
+- [Adrian Holovaty - A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
+
+  Texto já bastante antigo, mas seminal. Holovaty defende que jornalistas precisam enxergar o conteúdo que produzem como dados estruturados, não apenas como uma narrativa pontual, com prazo de validade. Assim, seria possível construir um outro tipo de conhecimento, capaz de transcender os limites do que ele chama de "formato de história" – o infame textão.
+
+- [The Guardian - Analysing data is the future for journalists, says Tim Berners-Lee](https://www.theguardian.com/media/2010/nov/22/data-analysis-tim-berners-lee)
+
+  Tim Berners-Lee é ninguém menos que o inventor da internet moderna (ou do hipertexto, para usar um jargão). Ele acha que o ambiente digital é um espaço cheio de histórias, assim como uma rua, um bar ou uma praça no ambiente "real", físico. Para achar essas histórias, porém, o jornalista contemporâneo precisa desenvolver uma nova competência: lidar com dados.
+
 - [Agência Lupa - Como mentir com estatísticas: um kit de sobrevivência para as eleições](https://piaui.folha.uol.com.br/lupa/2016/07/15/como-mentir-com-estatisticas-um-kit-de-sobrevivencia-para-as-eleicoes/)
 
 - [Math basics for journalists: Working with averages and percentages](https://journalistsresource.org/tip-sheets/foundations/math-for-journalists/)
 
-- [Adrian Holovaty - A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
-
-- [The Guardian - Analysing data is the future for journalists, says Tim Berners-Lee](https://www.theguardian.com/media/2010/nov/22/data-analysis-tim-berners-lee)
 
 #### Leituras aprofundadas
 
@@ -207,11 +214,14 @@ Até aqui, usamos números para encontrar notícias e produzir reportagens. Entr
 
 #### Leituras recomendadas
 
-- TO DO
+- [The New York Times - Metrics Are Everywhere in Media. Here’s How They Help.](https://www.nytimes.com/2018/05/23/technology/personaltech/metrics-media.html)
 
-#### Leituras aprofundadas
+  Descrição breve, em forma de reportagem, de como funciona o departamento de métricas do New York Times.
 
-- TO DO
+- [Current.org - To build and engage your audience, consider these core metrics for measuring success](https://current.org/2018/03/to-build-and-engage-your-audience-consider-these-core-metrics-for-measuring-success/)
+
+  Discute quais métricas são úteis para mensurar engajamento e fidelidade, não apenas simplesmente contar cliques e comentários. Texto útil para pensar quais são os objetivos do analytics aplicado ao jornalismo, especialmente agora que as empresas deixam de focar simplesmente em escala para se preocupar com a construção de um público leal e cativo disposto a pagar por assinaturas.
+
 
 #### Avaliação
 
