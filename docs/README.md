@@ -138,7 +138,7 @@ Isso não é motivo para abandonar a pauta: a vida pode ficar um pouco mais comp
 
 - [Escola de Dados - Ferramentas simples e gratuitas de raspagem](https://escoladedados.org/tutoriais/ferramentas-simples-e-gratuitas-de-raspagem/)
 
-- [Escola de Dados - Guia Quartz Para Limpeza de Dados](https://escoladedados.org/tutoriais/guia-quartz-para-limpeza-de-dados/#dados-estao-num-pdf)
+- [Escola de Dados - Guia Quartz Para Limpeza de Dados](https://escoladedados.org/tutoriais/guia-quartz-para-limpeza-de-dados/)
 
   O link acima é uma tradução e adaptação deste:
 - [The Quartz Guide to Bad Data](https://qz.com/572338/the-quartz-guide-to-bad-data/)
