@@ -14,6 +14,9 @@ Além do foco na produção de conteúdo, também será abordado o uso de inform
   - [A aula](#a-aula)
   - [Sistema de avaliação](#sistema-de-avaliação)
   - [Logística](#logística)
+- [Dicas para mandar bem](#dicas-para-mandar-bem)
+  - [Entrando no mundo da programação](#entrando-no-mundo-da-programação)
+  - [Sites para acompanhar](#sites-para-acompanhar)
 - [Plano de aulas](#plano-de-aulas)
   - [Encontro 1](#encontro-1)
   - [Encontro 2](#encontro-2)
@@ -52,6 +55,26 @@ Caso escolha fazer as duas atividades (faça isso, vai ser legal!), na hora de c
 Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter]('#'). Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
 
 É importante que você assine e acompanhe. Certifique-se de que os e-mails não vão cair no filtro de spam.
+
+## Dicas para mandar bem
+
+O curso não deve ser muito apavorante, mas com as dicas abaixo deve ficar ainda mais fácil. Nada do que listo nessa sessão é obrigatório. São apenas sugestões que devem tornar o conteúdo de aula mais proveitoso.
+
+### Entrando no mundo da programação
+
+Como já disse, um dos meus objetivos, embora não seja o principal, é apresentar jornalistas ao universo da programação. Não quero transformar ninguém em programador, e na verdade aprender código nem é requisito para passar. A ideia é, justamente, **apresentar** e desfazer medos.
+
+Entretanto, se você está entusiasmo para virar um *jorna-hacker* (ou se quer apenas fazer os [exercícios desafiadores](#sistema-de-avaliação) com facilidade), recomendo que faça o curso [Python's not (just) for unicorns](http://littlecolumns.com/learn/python/).
+
+O material foi elaborado por [Jonathan Soma](http://jonathansoma.com/), o professor que me fez virar um programador de verdade e cujo método de ensino eu tento imitar.
+
+Ele vai apresentar de forma super didática conceitos básicos de programação em Python. São coisas que eu não vou conseguir detalhar em aula, mas que vão facilitar demais a vida de quem quer se aventurar na área. Me procure se quiser ajuda com alguma coisa que ver por ali e podemos resolver juntos.
+
+### Sites para acompanhar
+
+Fazer bom jornalismo de dados é, na maioria das vezes, adaptar as ideias dos veículos mais criativas e competentes da área. Assim, nem preciso dizer que é muito importante acompanhar boas referências. 
+
+Eu consumo diariamente o trabalho dos departamentos gráficos de pesos-pesados como [New York Times](https://twitter.com/nytgraphics), [Washignton Post](https://twitter.com/PostGraphics), [The Guardian](https://twitter.com/GuardianVisuals), [La Nación](https://twitter.com/LNdata) e [Reuters](https://twitter.com/ReutersGraphics). Entretanto, meu site favorito se chama [The Pudding](https://pudding.cool/). Sugiro ler estes, mas o mais legal é montar um cardápio com conteúdos que você goste e admire.
 
 ---
 
@@ -97,9 +120,9 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 #### Avaliação:
 
-- [Conjunto de exercícios 1.1](#)
+- [Conjunto de exercícios 1.1](https://goo.gl/forms/4XMSKug51N5ePUUf1)
 
-  Você vai resolver uma série de exercícios que usa dados de interesse público para trabalhar conceitos básicos de compreensão numérica. São perguntas sobre taxas, percentuais, variação ao longo do tempo, comparação de grandezas, correlação, causalidade e coisas do gênero.
+  Você vai resolver uma série de exercícios que trabalha conceitos básicos de compreensão numérica. São perguntas sobre taxas, percentuais, variação ao longo do tempo, comparação de grandezas, correlação, causalidade e coisas do gênero.
 
 ---
 
@@ -179,6 +202,10 @@ A essa altura do campeonato, já sabemos coletar dados e fizemos algumas pergunt
 - [Towards Data Science - Why visual literacy is essential to good data visualization](https://towardsdatascience.com/why-visual-literacy-is-essential-to-good-data-visualization-5b9dffb5aa6f)
 
   O melhor desse texto é o argumento que ele faz em defesa de visualizações bonitas, mesmo que mais imprecisas. É polêmico, mas a provocação vale a pena.
+
+  - [Alberto Cairo - Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication](https://infovis.fh-potsdam.de/readings/Cairo2015.pdf)
+
+  Artigo um pouco longo, mas que explica como gráficos e visualizaçõe de dados podem ser usados para difundir mensagens enganosas. É bom ler para não ser ludibriado e também para não cometer erros parecidos sem querer.
 
 #### Leituras aprofundadas
 
