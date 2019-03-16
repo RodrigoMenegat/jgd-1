@@ -52,7 +52,7 @@ Caso escolha fazer as duas atividades (faça isso, vai ser legal!), na hora de c
 
 ### Logística
 
-Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter]('#'). Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
+Além deste site, que contém uma descrição geral do curso e links para os exercícios de cada semana, temos também uma [newsletter](http://eepurl.com/gkU2av). Ela vai ser usada para mandar lembretes sobre deadlines da semana e, eventualmente, para compartilhar boas reportagens e infográficos.
 
 É importante que você assine e acompanhe. Certifique-se de que os e-mails não vão cair no filtro de spam.
 
@@ -88,6 +88,11 @@ De início, vou apresentar a dinâmica da disciplina, o sistema de avaliação e
 Em seguida, vamos falar da história do jornalismo de dados: pensamos nesse gênero como algo super moderno, mas há pesquisadores que vêm elementos da prática já no século XVI – como chegamos de lá até aqui, e o que mudou no processo?
 
 Para terminar, serão apresentados conceitos matemáticos simples que fazem toda a diferença na hora de trabalhar com números em uma matéria. A ideia é se familiarizar e ficar confortável com taxas, variações e comparações entre grandezas. Não é nada de outro mundo, mas necessário para avançar para partes mais técnicas da disciplina.
+
+#### Slides
+
+- [O que é jornalismo de dados e por que é a coisa mais legal que existe?](https://docs.google.com/presentation/d/18a3-WhQMSij-cjrcRGwKjh5dWNaMnpbkUTluCGdiIG0/edit?usp=sharing)
+- [Tirando o elefante da sala: matemática](https://docs.google.com/presentation/d/1Wr3ecQUl0dAob_bU01cTsOVbJNBj11oLXEW0CH4s_BA/edit?usp=sharing)
 
 #### Leituras recomendadas
 
