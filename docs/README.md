@@ -144,6 +144,16 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 - [Artigo 19 - Guia Prático da Lei de Acesso à Informação](https://artigo19.org/wp-content/blogs.dir/24/files/2018/03/Cartilha_LAI_2018_download.pdf)
 
+#### Listas de serviços de acesso à informação:
+
+- [Abraji - Portais da Transparência e E-SICs nos estados](http://abraji.org.br/portais-da-transparencia-e-e-sics-nos-estados)
+
+- [Abraji - Portais da Transparência e E-SICs no nível federal](http://abraji.org.br/help-desk/portais-da-transparencia-e-e-sics-no-nivel-federal)
+
+- [Abraji - Lista colaborativa de bases de dados](https://docs.google.com/spreadsheets/d/1oe4vWQkNhJ3qWZdgKeTb1rYyjPRtK4hyfCYIruzBjU0/edit#gid=0)
+
+- [Livre.jor - Quer informação do Judiciário, de todos tribunais no Brasil? Livre.jor lhe dá os links](http://livre.jor.br/quer-informacao-do-judiciario-de-todos-tribunais-no-brasil-livre-jor-lhe-da-os-links/)
+
 #### Avaliação
 
 Aqui, começa o esquema de “dois caminhos” para cada uma das tarefas, do qual falei no [começo do documento]("#avaliação"). Você pode escolher qualquer um dos conjuntos de exercícios. Será ótimo se você puder tentar fazer os dois, mesmo que parcialmente – ou, ao menos, dar uma olhada no segundo conjunto. Entretanto, sei que a vida é corrida e super entendo se conseguir fazer apenas um.
