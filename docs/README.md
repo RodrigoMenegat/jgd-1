@@ -136,6 +136,13 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 É nessa aula que começamos a sujar as mãos de verdade. De início, vamos falar sobre os conceitos de *open data* e *open data journalism*. Depois, olharemos para marcos históricos na política de dados abertos brasileira, com ênfase na Lei de Acesso à Informação, comparando-a com outros países. Em seguida, vamos visitar as principais fontes públicas de dados que podem ser úteis para reportagens, escolher uma delas e explora-la juntos.
 
+#### Slides
+
+- [O que são dados abertos e como usá-los em pautas](https://docs.google.com/presentation/d/1sN1pMaSFFv7LkDZzfQYS742ToifQGZbatBRxFr1wMb0/edit?usp=sharing)
+
+- [Usando planilhas para pegar gastos com cartão corporativo](https://docs.google.com/presentation/d/1x0PrWLgqw4Bm5jjhmU4vdGcAxBKZOSbm0TDvjFX-lik/edit?usp=sharing)
+
+
 #### Leituras recomendadas
 
 - [The Guardian - Big data and open data: what's what and why does it matter?](https://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government)
