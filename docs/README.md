@@ -158,7 +158,7 @@ Para terminar, serão apresentados conceitos matemáticos simples que fazem toda
 
 Aqui, começa o esquema de “dois caminhos” para cada uma das tarefas, do qual falei no [começo do documento]("#avaliação"). Você pode escolher qualquer um dos conjuntos de exercícios. Será ótimo se você puder tentar fazer os dois, mesmo que parcialmente – ou, ao menos, dar uma olhada no segundo conjunto. Entretanto, sei que a vida é corrida e super entendo se conseguir fazer apenas um.
 
-- [Conjunto de exercícios 2.1: confortável](#)
+- [Conjunto de exercícios 2.1: confortável](https://forms.gle/jzzhT3Jr37fZ16df7)
 
   Você vai precisar acessar dados em portais de dados abertos, baixá-los, limpá-los e analisá-los usando Excel ou Google Sheets. As perguntas vão ser tanto específicas (“quanto o PIB brasileiro cresceu entre 2009 e 2014, de acordo com o IBGE?”) ou abertas (“escreva um lead interessante com os dados que analisou”).
 
