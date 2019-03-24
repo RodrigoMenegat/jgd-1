@@ -6,5 +6,5 @@ Os programas de planilha têm limitações quanto ao tamanho dos arquivos que co
 
 A maioria dos jornalistas que conheço usa uma dessas três linguagens no trabalho: **Python**, **R** e **SQL** - embora essa última não seja beeem uma linguagem de programação. No meu dia-a-dia, uso o Python para 99% das coisas, mas para meus primeiros trabalhos, usei muito o SQL. Assim, vou montar breves tutoriais para esses dois, já que não entendo nada de R (e acho uma linguagem muito feia, mas isso é outra história)
 
-- Veja também [**Uma breve introdução ao SQL**](https://rodrigomenegat.github.io/jgd-1/introducao-ao-sql)
+- Veja também ["Uma breve introdução ao SQL"](https://rodrigomenegat.github.io/jgd-1/introducao-ao-sql)
  
