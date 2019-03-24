@@ -8,3 +8,19 @@ A maioria dos jornalistas que conheço usa uma dessas três linguagens no trabal
 
 - Veja também ["Uma breve introdução ao SQL"](https://rodrigomenegat.github.io/jgd-1/introducao-ao-sql)
  
+
+## Da onde começamos?
+
+Para ser sincero, não posso chamar isso aqui de "introdução ao Python". Para isso, eu teria que passar algum tempo ensinando vocês coisas básicas como "o que é uma variável" e "o que é um bloco *if/else*". Talvez eu faça isso um dia, mas por enquanto prefiro partir de um ponto um pouco mais além. Assim, sugiro que quem quer seguir meu pequeno tutorial faça primeiro alguns módulos do ["Python's Not (Just For Unicorns"](http://littlecolumns.com/learn/python/data-types-errors/). 
+
+Como mencionei na [ementa](https://rodrigomenegat.github.io/jgd-1)) dessa disciplina, trata-se de um curso online e gratuito que ensina o básico da linguagem. O autor foi meu professor na pós-graduação e é o cara que me ensinou a programar bem. O único problema é que o conteúdo só está disponível em inglês, mas dá para se virar bem usando o Google Translator.
+
+Assim, a partir daqui, eu presumo que você já sabe o que é uma variável, uma lista, um dicionário, uma *string*, um *int*, um *float*. Se você não sabe, bem, faça o curso! É super bem-escrito, divertido, esclarecedor – e o tema nem é tão difícil, afinal.
+
+## Anaconda
+
+Instalar o Python geralmente é muito chato. Para driblar isso, vamos usar o [Anaconda](https://www.anaconda.com/distribution/)! É uma distribuição do Python que já inclui tudo que você precisa para brincar de cientista de dados. Acesse o link, baixe e instale a versão Python 3.7.
+
+Depois disso, abra o programa **Anaconda Navigator**.
+
+
