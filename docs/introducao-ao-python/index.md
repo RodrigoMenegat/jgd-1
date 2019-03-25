@@ -24,4 +24,4 @@ Instalar o Python geralmente é muito chato. Para driblar isso, vamos usar o [An
 Quando tudo estiver pronto, execute o **Anaconda Navigator**. Assim que ele carregar, você vai estar diante de um painel de controle com várias opções para fazer coisas malucas. Entretanto, o que interessa agora é apenas uma: clique em 'launch' para abrir o **Jupyer Notebook**.
 
 
-<img style="float: center;" src="./img/gif-1.gif">
+<img style="float: center;" src="img/gif-1.gif">
