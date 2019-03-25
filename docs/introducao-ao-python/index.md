@@ -30,7 +30,7 @@ Quando tudo estiver pronto, execute o **Anaconda Navigator**. Assim que ele carr
 
 Se você fez o [curso do Soma](#da-onde-começamos?), está acostumado a rodar código direto no navegador. Também é possível que você esteja acostumado a salvar arquivos `.py` e executa-los a partir do terminal. Bom, aqui vamos fazer as coisas de um jeito diferente.
 
-O [Jupyter]() é uma maneira diferente de programar, que permite que você execute o código de parte por parte sem precisar rodar tudo de uma vez do início ao fim. Isso é ótimo para o tipo de trabalho que fazemos, que envolve ver o resultado de nossas operações passo-a-passo.
+O [Jupyter](https://jupyter.org/) é uma maneira diferente de programar, que permite que você execute o código de parte por parte sem precisar rodar tudo de uma vez do início ao fim. Isso é ótimo para o tipo de trabalho que fazemos, que envolve ver o resultado de nossas operações passo-a-passo.
 
 O primeiro passo é criar um novo notebook.
 
