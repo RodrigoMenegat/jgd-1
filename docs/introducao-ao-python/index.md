@@ -9,7 +9,7 @@ A maioria dos jornalistas que conheço usa uma dessas três linguagens no trabal
 - Veja também ["Uma breve introdução ao SQL"](https://rodrigomenegat.github.io/jgd-1/introducao-ao-sql)
  
 
-## Da onde começamos?
+## De onde começamos?
 
 Para ser sincero, não posso chamar isso aqui de "introdução ao Python". Para isso, eu teria que passar algum tempo ensinando vocês coisas básicas como "o que é uma variável" e "o que é um bloco *if/else*". Talvez eu faça isso um dia, mas por enquanto prefiro partir de um ponto um pouco mais além. Assim, sugiro que quem quer seguir meu pequeno tutorial faça primeiro alguns módulos do ["Python's Not (Just) For Unicorns"](http://littlecolumns.com/learn/python/data-types-errors/). 
 
@@ -42,3 +42,10 @@ Você pode inserir células de código, que são rodadas usando `SHIFT + ENTER`,
 
 <img style="float: center;" src="imgs/code-and-markdown.gif">
 
+## import pandas as pd
+
+Uma coisa importante para saber sobre programação: provavelmente alguém já fez um programa que faz o que você precisa. Para que reinventar a roda, se podemos usar o conhecimento dos desenvolvedores que vieram antes de nós?
+
+A ideia por trás do `import` é isso. Com esse comando, você pode importar para o seu projeto funções desenvolvidas por outras pessoas. Esses conjuntos de funções se chamam *libraries* ou *packages*.
+
+O pacote que mais uso para meu trabalho jornalístico, sem a menor dúvida, é o **pandas**.
