@@ -25,3 +25,20 @@ Quando tudo estiver pronto, execute o **Anaconda Navigator**. Assim que ele carr
 
 
 <img style="float: center;" src="imgs/gif-1.gif">
+
+## Jupyter Notebook
+
+Se você fez o [curso do Soma](#da-onde-começamos?), está acostumado a rodar código direto no navegador. Também é possível que você esteja acostumado a salvar arquivos `.py` e executa-los a partir do terminal. Bom, aqui vamos fazer as coisas de um jeito diferente.
+
+O [Jupyter]() é uma maneira diferente de programar, que permite que você execute o código de parte por parte sem precisar rodar tudo de uma vez do início ao fim. Isso é ótimo para o tipo de trabalho que fazemos, que envolve ver o resultado de nossas operações passo-a-passo.
+
+O primeiro passo é criar um novo notebook.
+
+<img style="float: center;" src="imgs/new-jupyter.gif">
+
+Depois, não tem muito segredo:
+
+Você pode inserir células de código, que são rodadas usando `SHIFT + ENTER`, e também pode adicionar células de Markdown, uma espécie de texto estruturado, para fazer comentários sobre o código.
+
+<img style="float: center;" src="imgs/code-and-markdown.gif">
+
