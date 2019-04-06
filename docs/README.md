@@ -182,6 +182,11 @@ Bases de dados governamentais têm seus problemas, mas no geral são bastante li
 
 Isso não é motivo para abandonar a pauta: a vida pode ficar um pouco mais complicada, mas é possível organizar os dados de lugares onde a informação não está tão aberta ou estruturada. Nessa aula, vamos aprender a lidar com tabelas em formato PDF e a “raspar” dados de páginas que não oferecem opção de download.
 
+#### Slides
+
+- [O dado que preciso não é aberto. E agora?](https://docs.google.com/presentation/d/12mf3k_DtgnAr8_WI7TtMOiPFVuM2cFR6XfltUyI5wCE/edit?usp=sharing)
+
+
 #### Leituras recomendadas
 
 - [Towards Data Science - Ethics in Web Scraping](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
@@ -200,7 +205,7 @@ Isso não é motivo para abandonar a pauta: a vida pode ficar um pouco mais comp
 Mais dois conjuntos de exercícios, no mesmo esquema de “confortável” e “desafiador”. Ambos lidam com a coleta de informação não estruturada. O primeiro usa apenas ferramentas “prontas” para extrair dados. O segundo mostra como raspar dados usando Python. De novo, não se assuste! Vamos passo por passo.
 
 
-- [Conjunto de exercícios 3.1: confortável](#)
+- [Conjunto de exercícios 3.1: confortável](https://forms.gle/p73NkjhpQZUzoRJ38)
 
   Vamos praticar a transformação de PDFs em planilhas usando o Tabula, extrair dados de sites sem opção de download com extensões de raspagem de dados para o Chrome, nos conectar com tabelas em HTML usando o Google Sheets e automatizar a coleta de tweets usando o IFTTT.
 
@@ -225,7 +230,7 @@ A essa altura do campeonato, já sabemos coletar dados e fizemos algumas pergunt
 
   O melhor desse texto é o argumento que ele faz em defesa de visualizações bonitas, mesmo que mais imprecisas. É polêmico, mas a provocação vale a pena.
 
-  - [Alberto Cairo - Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication](https://infovis.fh-potsdam.de/readings/Cairo2015.pdf)
+- [Alberto Cairo - Reflections on the Challenges and Pitfalls of Evidence-Driven Visual Communication](https://infovis.fh-potsdam.de/readings/Cairo2015.pdf)
 
   Artigo um pouco longo, mas que explica como gráficos e visualizaçõe de dados podem ser usados para difundir mensagens enganosas. É bom ler para não ser ludibriado e também para não cometer erros parecidos sem querer.
 
