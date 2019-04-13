@@ -266,6 +266,9 @@ Os links abaixo vão mostrar ferramentas úteis para elaborar boas visualizaçõ
 
 Até aqui, usamos números para encontrar notícias e produzir reportagens. Entretanto, esse não é o único uso que dados podem ter no jornalismo. Na era digital, tudo são dados – até o comportamento dos usuários de um site. Nessa aula, vamos ver como as técnicas que aprendemos anteriormente podem ser usadas para analisar métricas e planejar decisões editoriais e de negócios.
 
+#### Slides
+-[Usando métricas para melhorar o jornalismo](https://docs.google.com/presentation/d/1d7QZKP4KljwdXkFbteMy_yHKnTLS8EPY4eppCej5AHE/edit?usp=sharing)
+
 #### Leituras recomendadas
 
 - [The New York Times - Metrics Are Everywhere in Media. Here’s How They Help.](https://www.nytimes.com/2018/05/23/technology/personaltech/metrics-media.html)
