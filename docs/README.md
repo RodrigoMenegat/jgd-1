@@ -291,6 +291,10 @@ Sem exercícios nessa semana. Aproveite para se dedicar ao material que você co
 
 Na última aula desse primeiro módulo, vamos olhar para os principais exemplos de jornalismo de dados no mundo. O que coloca essas publicações na vanguarda? Que tipo de tecnologia elas usam? Como organizam suas redações e seu fluxo de trabalho? Também vamos entender os conceitos de “jornalismo computacional” e “reportagem sobre algoritmos”, que levam a ideia de trabalho com dados e código a um lugar completamente novo.
 
+#### Slides
+
+- [Inovação no jornalismo de dados – quem eu devo imitar?](https://docs.google.com/presentation/d/1asuDAtTMvjjbwewPT7OpK4sm-dc9-FbHd0M8oZAibk8/edit?usp=sharing)
+
 #### Leituras recomendadas
 
 - [Data Journalism Awards - This is what the best of data journalism looks like](https://medium.com/data-journalism-awards/this-is-what-the-best-of-data-journalism-looks-like-6f1713d60479)
